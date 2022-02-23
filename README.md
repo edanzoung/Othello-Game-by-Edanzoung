@@ -1,9 +1,11 @@
 # Othello-Game-by-Edanzoung
 Othello also known as "Reversi" is a strategy board game for two players, played on an 8×8 uncheckered board. There are sixty-four identical game pieces called disks (often spelled "discs"), which are light on one side and dark on the other. Players take turns placing disks on the board with their assigned color facing up.
 
-This game is made by python
-Author: Edanzoung /n
-Email: edanzoung@outlook.fr /n
+This game is made by python3
+
+Author: Edanzoung
+
+Email: edanzoung@outlook.fr
 
 # Python Library used:
 Pyqt5 and Sqlite3 
